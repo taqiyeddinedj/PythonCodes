@@ -10,4 +10,4 @@ res = 1
 for n in num:
     res = res * int(n)
 
-print(res)
+print(f"Result is {res}")
